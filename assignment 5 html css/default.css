@@ -1,0 +1,66 @@
+* {margin:0; padding:0}
+
+body {background-color: #006633;
+        position: absolute;
+        left: 150px;
+        margin-top: 20px;
+        box-shadow: 6px 6px 6px black;}
+
+header {background: url(images/leaf-green.jpg);
+        height: 100px;
+        color:white;
+        box-shadow: 3px 3px 3px black;}
+
+#page {width: 800px;
+        height: 835px;
+        background: white;
+        padding:30px;
+        background-image: url(images/flower.jpg);
+        background-position: 190px 200px;
+        background-repeat: no-repeat;}
+
+h1 {font-family: 'Berkshire Swash', cursive;
+        font-size: 2.9em;
+        text-shadow: 3px 3px 3px black;
+        letter-spacing: 2px;
+        position: absolute;
+        top: 35px; left: 200px;}
+
+h3 {text-shadow: 3px 3px 3px black;
+        color: white;
+        position: absolute;
+        top: 95px; left: 250px;}
+
+nav {position: relative;
+        margin-top: 15px;
+        width: 800px;}
+
+img     {width: 130px;}
+
+h2 {padding-top: 15px;
+        padding-bottom: 10px;
+        color: #006633;
+        font-size: 2em;}
+
+td {padding-top: 15px;}
+
+input[type=text] {width: 250px;}
+
+input[type=email] {width: 250px;}
+
+input[type=submit] {position: absolute;
+                        width: 75px;
+                        top: 775px;
+                        left: 225px;}
+
+input[type=reset] {position: absolute;
+                        width: 75px;
+                        top: 775px;
+                        left: 310px;
+                        }
+input[type=checkbox] {width: 20px;}
+
+footer {padding-top: 15px;
+        border-top-style: groove;
+        border-color: #006633;}
+
